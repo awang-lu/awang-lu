@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @awang-lu
 - 👀 I’m interested in Java, C/C++, Javascript/Typescript, Go, Rust, Python...
-- 💞️Have a super pretty wife & cute daughter
 
 <!---
 - 🌱 I’m currently learning ...
